@@ -1,6 +1,6 @@
 # Gemography Front end Challende
 
-**Solution provided by [Mohamed Mostafa](https://github.com/mo-mostafa2010/gemography-frontend-challenge/blob/master/docs/development.md#generators) for [Gemogrpahy Front end Challenge](https://github.com/gemography/frontend-coding-challenge)**
+\*\*Solution provided by [Mohamed Mostafa](https://github.com/mo-mostafa2010/solve-it-frontend-task) for [Solve it Front end Challenge]
 
 > Project uses Vue entrprise community architecture to build the Vue app.
 
